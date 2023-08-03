@@ -1,4 +1,4 @@
-# Ethics in Software Engineering: a Systematic Literature Review
+# Stakeholder Inclusion and Value Diversity: An Evaluation Using an Access Control System
 This repository is a companion page for this systematic literature review (SLR), which contains all the material required for replicating the study.
 
 
